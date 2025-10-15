@@ -6,114 +6,59 @@
 <h1 align="center">👋 Hey, I'm Sai Sirisha NK</h1>
 
 <p align="center">
-  <b>Software Engineer | Product Strategist | Data Storyteller</b><br>
-  <em>Building intelligent systems that connect data, design, and decision-making.</em>
+  <b>Software Engineer | Product Strategist | AI Enthusiast</b><br>
+  <em>I build systems that think — combining data, design, and decision-making.</em>
 </p>
 
 ---
 
-### 💬 A Little About Me
-
-- 🔭 I’m currently working on **agentic backend systems** that can reason across multiple data streams  
-- 🌱 I’m currently learning how to make systems learn context, not just logic  
-- 👯 I’m looking to collaborate on **AI-driven products and analytics platforms**  
-- 🤔 I’m looking for help with **open-source intelligence frameworks and product telemetry**  
-- 💬 Ask me about **Spring Boot, LangChain, Power BI, or product experimentation frameworks**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sirisha-karanam/) | [Email](mailto:saisirisha.nk@gmail.com)  
-- ⚡ Fun fact: I can switch from debugging to brainstorming go-to-market ideas without changing playlists 🎧  
+### 💬 About Me
+- 🔭 Working on **intelligent backend systems** that can reason and adapt  
+- 🌱 Exploring **agentic workflows** and **context-aware automation**  
+- 💬 Ask me about **Python, Spring Boot, or turning data into product insight**  
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/sirisha-karanam/) | [Email](mailto:saisirisha.nk@gmail.com)  
+- ⚡ Fun fact: my name is an anagram for *“I ask in AI.”* 🧩  
 
 ---
 
-## 🧠 Software Development Projects
+### ⚙️ Tech Stack
 
-- **Smart Supply Chain Forecasting (Python, ML)**  
-  Demand prediction + delivery classification engine to optimize last-mile logistics performance.  
-  ![last commit](https://img.shields.io/github/last-commit/sirisha49/Smart-Supply-Chain-Demand-Forecasting-Delivery-Classification)
-  ![issues](https://img.shields.io/github/issues/sirisha49/Smart-Supply-Chain-Demand-Forecasting-Delivery-Classification)
-  ![license](https://img.shields.io/github/license/sirisha49/Smart-Supply-Chain-Demand-Forecasting-Delivery-Classification)  
-  → [View Project](https://github.com/sirisha49/Smart-Supply-Chain-Demand-Forecasting-Delivery-Classification)
+#### 💻 Languages I Use
+Python | Java | SQL | JavaScript  
 
-- **Weather Disaster Hybrid Agent (Python, LangGraph)**  
-  Built an intelligent response agent combining weather APIs + social signals for early disaster alerts.  
-  → [View Project](https://github.com/sirisha49/Weather-Disaster-Response-Hybrid-Agent)
+#### 🎨 Front End
+React | HTML/CSS | Bootstrap | Power BI | Chart.js  
 
-- **AI Blog Search (BLOTT)**  
-  Designed a blog query engine that understands context, retrieves insights, and summarizes content.  
-  → [View Project](https://github.com/sirisha49/AI-Blog-Search)
+#### 🧱 Back End & Cloud
+Spring Boot | Flask | Node.js | Azure (ADF, Blob, Functions) | AWS (S3, Lambda) | LangChain | Gemini API  
 
-- **StudySpot Finder (Flask + SQL)**  
-  Campus application that locates optimal study spots based on live occupancy and sentiment data.  
-  → [View Project](https://github.com/sirisha49/StudySpot-Finder)
-
-- **EDA on Student Performance Indicators (Python, Power BI)**  
-  Discovered drivers of academic outcomes by correlating behavioral, demographic, and learning data.  
-  → [View Project](https://github.com/sirisha49/EDA-on-Student-Performance-Indicator)
+#### 🧮 Favorite Algorithms & Patterns
+Sliding Window • Graph Traversal • Dynamic Programming • Hashmaps for pattern detection • Factory / Observer / Repository design patterns  
 
 ---
 
-## 🧩 Product Case Studies & Strategy Projects
+### 🚀 Projects  
+You can view all my repositories here 👉 **[github.com/sirisha49?tab=repositories](https://github.com/sirisha49?tab=repositories)**  
 
-- **Amazon – Revitalizing Alexa**  
-  Explored why Alexa lost innovation momentum and proposed three internal AI initiatives tied to KPIs, product differentiation, and developer engagement.  
-  *Result:* Mapped out $280M+ market recovery opportunity through conversational intelligence features.
-
-- **LittleCo – Emerging Tech Adoption**  
-  Designed a 3-phase innovation strategy introducing IoT and data agents into small-scale manufacturing.  
-  *Result:* 25% improvement in workflow efficiency projected through automation pilots.
-
-- **Uber – Driver Incentive Optimization (Concept)**  
-  Reimagined dynamic pricing + driver incentives using predictive behavioral modeling.  
-  *Focus:* Fair earnings distribution and improved trip reliability scores.
-
-- **Capital One – Product Intelligence for Internal Platforms**  
-  Built a data dashboard framework concept for tracking cross-team OKRs and customer impact.  
-  *Result:* Simplified product decision reviews with unified data visualization.
-
-- **DHL / E-Cargo Movers – SmartMiles**  
-  Introduced scan-based delivery verification and ETL-powered analytics for route optimization.  
-  *Impact:* 15% reduction in failed deliveries and better hub coordination.
+Some highlights:  
+- **Weather Disaster Hybrid Agent** – a reasoning agent for real-time crisis response  
+- **Smart Supply Chain Forecasting** – predictive demand + delivery classification engine  
+- **AI Blog Search (BLOTT)** – contextual retrieval and summarization tool  
+- **Money Savers & LittleCo Proposal** – applied product analytics and tech roadmaps  
 
 ---
 
-## 🧭 How I Think
-
-> “Good software doesn’t just execute — it understands.”
-
-I build systems that combine **logic with intuition**, using:
-- Adaptive reasoning agents  
-- Data-backed decision models  
-- Human-centered product strategy  
-
-The goal is simple: make intelligence *feel* natural — invisible but powerful.
-
----
-
-## ⚙️ Tech & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-</p>
+### 🎯 Product Mindset
+- I think in **user stories and data loops**, not just lines of code.  
+- Experienced in **go-to-market plans, OKR mapping, and feature prioritization.**  
+- Projects like **Alexa Revamp, LittleCo Innovation, and DHL SmartMiles** taught me how engineering and strategy meet in practice.  
+- I care about **making intelligence feel effortless** in the user experience.
 
 ---
 
 ### 📈 GitHub Snapshot
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirisha49&layout=compact&theme=transparent&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirisha49&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sirisha49&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="right">
@@ -122,23 +67,4 @@ The goal is simple: make intelligence *feel* natural — invisible but powerful.
 
 ---
 
-### 🌱 Currently Exploring  
-
-- Agent-based reasoning systems that combine context + learning  
-- Intelligent automation for data-driven product decisions  
-- Using storytelling to make AI systems relatable to non-technical users  
-
----
-
-### 🧵 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sirisha-karanam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saisirisha.nk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sirisha49"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-⭐ *“Intelligence is when code starts making sense — not just to the machine, but to the people using it.”*
-
+⭐ *“Good products balance empathy and logic — I like building the space between them.”*
