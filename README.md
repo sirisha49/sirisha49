@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/sirisha49/sirisha49/blob/main/Sai%20Sirisha%20NK%20(1).gif" alt="Sai Sirisha NK Banner" width="100%">
+  <img src="https://github.com/sirisha49/sirisha49/blob/main/Profile.gif" alt="Sai Sirisha NK Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I'm Sai Sirisha NK</h1>
