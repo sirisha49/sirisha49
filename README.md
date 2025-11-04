@@ -73,4 +73,4 @@ You can view all my repositories here 👉 **[github.com/sirisha49?tab=repositor
 
 ---
 
-⭐ *““Stay hungry, stay foolish — Steve Jobs”*
+⭐ *“Stay hungry, stay foolish — Steve Jobs”*
