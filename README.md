@@ -16,7 +16,7 @@
 - 🔭 Working on **intelligent backend systems** that can reason and adapt  
 - 🌱 Exploring **agentic workflows** and **context-aware automation**  
 - 💬 Ask me about **Python, Spring Boot, or turning data into product insight**  
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/sirisha-karanam/) | [Email](mailto:saisirisha.nk@gmail.com)  
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/sirisha-karanam/) | [Email](mailto:sirishank4@gmail.com)  
 - ⚡ Fun fact: my name is an anagram for *“I ask in AI.”* 🧩  
 
 ---
@@ -30,7 +30,10 @@ Python | Java | SQL | JavaScript
 React | HTML/CSS | Bootstrap | Power BI | Chart.js  
 
 #### 🧱 Back End & Cloud
-Spring Boot | Flask | Node.js | Azure (ADF, Blob, Functions) | AWS (S3, Lambda) | LangChain | Gemini API  
+Spring Boot | Flask | Node.js | Azure (ADF, Blob, Functions) | AWS (S3, Lambda) 
+
+#### 🤖 AI / ML
+Machine Learning | Generative AI | Deep Learning | NLP
 
 #### 🧮 Favorite Algorithms & Patterns
 Sliding Window • Graph Traversal • Dynamic Programming • Hashmaps for pattern detection • Factory / Observer / Repository design patterns  
@@ -40,19 +43,22 @@ Sliding Window • Graph Traversal • Dynamic Programming • Hashmaps for patt
 ### 🚀 Projects  
 You can view all my repositories here 👉 **[github.com/sirisha49?tab=repositories](https://github.com/sirisha49?tab=repositories)**  
 
-Some highlights:  
-- **Weather Disaster Hybrid Agent** – a reasoning agent for real-time crisis response  
-- **Smart Supply Chain Forecasting** – predictive demand + delivery classification engine  
-- **AI Blog Search (BLOTT)** – contextual retrieval and summarization tool  
-- **Money Savers & LittleCo Proposal** – applied product analytics and tech roadmaps  
+🌟 Some Highlights  
+- **Weather Disaster Hybrid Agent** – real-time reasoning workflow for severe weather detection, data fusion, and automated response.  
+- **AI Blog Search (Blott)** – contextual retrieval and summarization agent built with LangGraph and Gemini for intelligent blog querying.  
+- **Smart Supply Chain Forecasting** – predictive demand and delivery classification engine using regression and time-series models.  
+- **Point of Sale (POS) System** – hybrid SQL–NoSQL data architecture simulating large-scale retail operations with ETL automation.  
+- **Pacman Maze Solver** – algorithmic pathfinding visualizer using DFS, BFS, UCS, and A* search strategies.   
 
 ---
 
-### 🎯 Product Mindset
+### 🎯 Areas I Explore – Product  
 - I think in **user stories and data loops**, not just lines of code.  
 - Experienced in **go-to-market plans, OKR mapping, and feature prioritization.**  
 - Projects like **Alexa Revamp, LittleCo Innovation, and DHL SmartMiles** taught me how engineering and strategy meet in practice.  
-- I care about **making intelligence feel effortless** in the user experience.
+- I care about **making intelligence feel effortless** in the user experience.  
+- Check out my thoughts on product and strategy at [**Medium**](https://medium.com/@sirishank4).
+- Related projects : [**Product_portfolio**](https://github.com/sirisha49/Product-Portfolio).
 
 ---
 
